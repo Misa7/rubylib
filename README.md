@@ -13,7 +13,7 @@ Projet de Week 1 Day 4 sur Ruby effectué (avec amour) par :
 - 02_password.rb :
 	Ici l'utilisateur est invité à définir son mot de passe. Ensuite il doit de nouveau entrer ce dernier. Si le mot de passe correspond bien, un message d'une confidentialité EXTREME va être affiché. Sinon l'utilisateur sera invité à entrer son mot de passe jusqu'à ce que ce soit le bon. C'est pas si compliqué de s'en souvenir quand même.
 
--03_stairway.rb :
+- 03_stairway.rb :
 	Le concurrent direct de Mario Bros. Dans ce jeu, le but est d'atteindre la 10e marche en partant du rez-de-chaussée. Pour ce faire, il faut lancer un dé (attention, le lancer est animé !) et le chiffre obtenu détermine le destin de notre protagoniste. 
 
 On a pas fait de stats parce que notre jeu n'en a pas besoin car il est déjà assez badass.
